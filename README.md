@@ -37,7 +37,7 @@ Developer Routes Community offers a range of resources and opportunities to help
 ## Discord
 Join our community
 
-[![Discord](https://img.shields.io/badge/discord-%23000000.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xpVd7jYf)
+[![Discord](https://img.shields.io/badge/discord-%23000000.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gpAyfqVQJX)
 
 ## Thanks to all the contributors ❤️
 
